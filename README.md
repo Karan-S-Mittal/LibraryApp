@@ -1,4 +1,9 @@
 # LibraryApp
-DataFlair Django Blogs. This repository contain the libraryapp project explained in Django tutorials on dataflair.com.
-https://data-flair.training/blogs/django-crud-example/ is the particular blog of this app.
-# These articles are written by - Karan Mittal, that's me
+This is a Application, which can perform CRUD operations on Books of a library. <br>
+This repository contains the code of the article on this url : https://data-flair.training/blogs/django-crud-example/<br>
+All the blogs on Django Framework are written by me and you can find more repositories for the articles here. 
+# Thank you,
+# Author of Blog and Application : Karan Mittal, yep that's me
+<hr>
+# Preview of the Application <br>
+![The Preview Image](LibraryApp.png)
