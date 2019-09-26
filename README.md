@@ -6,4 +6,4 @@ All the blogs on Django Framework are written by me and you can find more reposi
 # Author of Blog and Application : Karan Mittal, yep that's me
 <hr>
 # Preview of the Application <br>
-![The Preview Image](LibraryApp.png)
+!['The Preview Image']('LibraryApp.png')
